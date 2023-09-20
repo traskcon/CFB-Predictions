@@ -1,0 +1,255 @@
+﻿Id,Season,Week,Season Type,Completed,Neutral Site,Venue Id,Venue,Home Team,Home Conference,Home Division,Home Points,Home Post Win Prob,Home Pregame Elo,Home Postgame Elo,Away Team,Away Conference,Away Division,Away Points,Away Post Win Prob,Away Pregame Elo,Away Postgame Elo
+401525434,2023,1,regular,TRUE,TRUE,3504,Aviva Stadium,Notre Dame,FBS Independents,fbs,42,0.998958344,1733,1819,Navy,American Athletic,fbs,3,0.001041656,1471,1385
+401520145,2023,1,regular,TRUE,FALSE,3662,JSU Stadium,Jacksonville State,Conference USA,fbs,17,0.4080006,1500,1499,UTEP,Conference USA,fbs,14,0.5919994,1369,1370
+401525450,2023,1,regular,TRUE,FALSE,3601,Aggie Memorial Stadium,New Mexico State,Conference USA,fbs,30,0.239248863,1322,1274,UMass,FBS Independents,fbs,41,0.760751137,1074,1122
+401532392,2023,1,regular,TRUE,FALSE,7311,Snapdragon Stadium,San Diego State,Mountain West,fbs,20,0.95446873,1488,1497,Ohio,Mid-American,fbs,13,0.04553127,1482,1473
+401520147,2023,1,regular,TRUE,FALSE,3973,Vanderbilt Stadium,Vanderbilt,SEC,fbs,35,0.180846188,1322,1327,Hawai'i,Mountain West,fbs,28,0.819153812,1246,1241
+401523986,2023,1,regular,TRUE,FALSE,477,Los Angeles Memorial Coliseum,USC,Pac-12,fbs,56,0.998230868,1663,1713,San José State,Mountain West,fbs,28,0.001769132,1462,1412
+401520146,2023,1,regular,TRUE,FALSE,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,fbs,22,0.985728778,1251,1249,Florida International,Conference USA,fbs,17,0.014271222,1072,1074
+401525816,2023,1,regular,TRUE,FALSE,3652,Bright House Networks Stadium,UCF,Big 12,fbs,56,0.998905999,1534,1668,Kent State,Mid-American,fbs,6,0.001094001,1396,1262
+401532393,2023,1,regular,TRUE,FALSE,3980,Waldo Stadium,Western Michigan,Mid-American,fbs,35,0.979419588,1367,1367,St Francis (PA),NEC,fcs,17,0.020580412,,
+401525461,2023,1,regular,TRUE,FALSE,3630,BB&T Field,Wake Forest,ACC,fbs,37,0.988375109,1608,1608,Elon,CAA,fcs,17,0.011624891,,
+401531834,2023,1,regular,TRUE,FALSE,4246,Georgia State Stadium,Georgia State,Sun Belt,fbs,42,0.968801632,1490,1490,Rhode Island,CAA,fcs,35,0.031198368,,
+401520174,2023,1,regular,TRUE,FALSE,3892,Rentschler Field,Connecticut,FBS Independents,fbs,14,0.02072139,1260,1264,NC State,ACC,fbs,24,0.97927861,1557,1553
+401520176,2023,1,regular,TRUE,FALSE,587,Rice-Eccles Stadium,Utah,Pac-12,fbs,24,0.938172546,1776,1784,Florida,SEC,fbs,11,0.061827454,1554,1546
+401520148,2023,1,regular,TRUE,FALSE,3953,TCF Bank Stadium,Minnesota,Big Ten,fbs,13,0.047056199,1672,1671,Nebraska,Big Ten,fbs,10,0.952943801,1521,1522
+401531337,2023,1,regular,TRUE,FALSE,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,fbs,42,0.998856089,1418,1418,Arkansas-Pine Bluff,SWAC,fcs,7,0.001143911,,
+401531377,2023,1,regular,TRUE,FALSE,7221,Protective Stadium,UAB,American Athletic,fbs,35,0.998937238,1510,1510,North Carolina A&T,CAA,fcs,6,0.001062762,,
+401520165,2023,1,regular,TRUE,FALSE,3838,Faurot Field,Missouri,SEC,fbs,35,0.997855509,1480,1480,South Dakota,MVFC,fcs,10,0.002144491,,
+401523987,2023,1,regular,TRUE,FALSE,3947,Sun Devil Stadium,Arizona State,Pac-12,fbs,24,0.844630963,1464,1464,Southern Utah,UAC,fcs,21,0.155369037,,
+401532394,2023,1,regular,TRUE,FALSE,3912,Rynearson Stadium,Eastern Michigan,Mid-American,fbs,33,0.67489299,1433,1433,Howard,MEAC,fcs,23,0.32510701,,
+401525463,2023,1,regular,TRUE,FALSE,3948,Hard Rock Stadium,Miami,ACC,fbs,38,0.998936251,1377,1481,Miami (OH),Mid-American,fbs,3,0.001063749,1420,1316
+401520163,2023,1,regular,TRUE,FALSE,3936,Spartan Stadium,Michigan State,Big Ten,fbs,31,0.989832976,1533,1575,Central Michigan,Mid-American,fbs,7,0.010167024,1370,1328
+401525462,2023,1,regular,TRUE,TRUE,5348,Mercedes-Benz Stadium,Georgia Tech,ACC,fbs,34,0.427752366,1348,1362,Louisville,ACC,fbs,39,0.572247634,1668,1654
+401525815,2023,1,regular,TRUE,FALSE,3833,Memorial Stadium,Kansas,Big 12,fbs,48,0.99718214,1415,1415,Missouri State,MVFC,fcs,17,0.00281786,,
+401523988,2023,1,regular,TRUE,FALSE,7220,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,fbs,24,0.010950635,1241,1220,Stanford,Pac-12,fbs,37,0.989049365,1324,1345
+401520172,2023,1,regular,TRUE,FALSE,3735,Gerald J. Ford Stadium,SMU,American Athletic,fbs,38,0.996877168,1502,1535,Louisiana Tech,Conference USA,fbs,14,0.003122832,1249,1216
+401520162,2023,1,regular,TRUE,FALSE,3558,Michigan Stadium,Michigan,Big Ten,fbs,30,0.998549097,1916,1941,East Carolina,American Athletic,fbs,3,0.001450903,1506,1481
+401520157,2023,1,regular,TRUE,FALSE,3793,Kinnick Stadium,Iowa,Big Ten,fbs,24,0.890761918,1665,1664,Utah State,Mountain West,fbs,14,0.109238082,1395,1396
+401520159,2023,1,regular,TRUE,FALSE,3683,Commonwealth Stadium,Kentucky,SEC,fbs,44,0.470318465,1570,1625,Ball State,Mid-American,fbs,14,0.529681535,1360,1305
+401520160,2023,1,regular,TRUE,FALSE,3992,Williams Stadium,Liberty,Conference USA,fbs,34,0.881914426,1442,1446,Bowling Green,Mid-American,fbs,24,0.118085574,1250,1246
+401520170,2023,1,regular,TRUE,FALSE,3907,Ross-Ade Stadium,Purdue,Big Ten,fbs,35,0.125611362,1473,1479,Fresno State,Mountain West,fbs,39,0.874388638,1677,1671
+401520179,2023,1,regular,TRUE,TRUE,3810,Nissan Stadium,Tennessee,SEC,fbs,49,0.998921606,1833,1887,Virginia,ACC,fbs,13,0.001078394,1393,1339
+401523994,2023,1,regular,TRUE,FALSE,3616,Amon G. Carter Stadium,TCU,Big 12,fbs,42,0.115941546,1652,1613,Colorado,Pac-12,fbs,45,0.884058454,1157,1196
+401525464,2023,1,regular,TRUE,FALSE,3615,Alumni Stadium,Boston College,ACC,fbs,24,0.0260056,1314,1309,Northern Illinois,Mid-American,fbs,27,0.9739944,1304,1309
+401525822,2023,1,regular,TRUE,FALSE,3835,Gaylord Family Oklahoma Memorial Stadium,Oklahoma,Big 12,fbs,73,0.998966389,1608,1793,Arkansas State,Sun Belt,fbs,0,0.001033611,1256,1071
+401532570,2023,1,regular,TRUE,FALSE,3713,Falcon Stadium,Air Force,Mountain West,fbs,42,0.998971302,1678,1678,Robert Morris,Big South-OVC,fcs,7,0.001028698,,
+401532395,2023,1,regular,TRUE,FALSE,3876,Peden Stadium,Ohio,Mid-American,fbs,27,0.997955372,1366,1366,Long Island University,NEC,fcs,10,0.002044628,,
+401525820,2023,1,regular,TRUE,FALSE,3772,Jack Trice Stadium,Iowa State,Big 12,fbs,30,0.997965703,1536,1536,Northern Iowa,MVFC,fcs,9,0.002034297,,
+401520168,2023,1,regular,TRUE,FALSE,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,fbs,73,0.998699821,1589,1589,Mercer,Southern,fcs,7,0.001300179,,
+401531387,2023,1,regular,TRUE,FALSE,3806,Lincoln Financial Field,Temple,American Athletic,fbs,24,0.572546857,1262,1263,Akron,Mid-American,fbs,21,0.427453143,1269,1268
+401520158,2023,1,regular,TRUE,FALSE,3662,JSU Stadium,Jacksonville State,Conference USA,fbs,49,0.994231996,1300,1300,East Tennessee State,Southern,fcs,3,0.005768004,,
+401523992,2023,1,regular,TRUE,FALSE,3626,Autzen Stadium,Oregon,Pac-12,fbs,81,0.998936981,1649,1649,Portland State,Big Sky,fcs,7,0.001063019,,
+401520151,2023,1,regular,TRUE,FALSE,3785,Jordan-Hare Stadium,Auburn,SEC,fbs,59,0.996945784,1564,1638,UMass,FBS Independents,fbs,14,0.003054216,1122,1048
+401525824,2023,1,regular,TRUE,FALSE,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,fbs,37,0.819030776,1766,1776,Rice,American Athletic,fbs,10,0.180969224,1204,1194
+401520156,2023,1,regular,TRUE,FALSE,3830,Memorial Stadium,Indiana,Big Ten,fbs,3,0.015602527,1388,1389,Ohio State,Big Ten,fbs,23,0.984397473,1904,1903
+401531835,2023,1,regular,TRUE,FALSE,3792,Kidd Brewer Stadium,Appalachian State,Sun Belt,fbs,45,0.988969207,1562,1562,Gardner-Webb,Big South-OVC,fcs,24,0.011030793,,
+401523997,2023,1,regular,TRUE,FALSE,3765,Husky Stadium,Washington,Pac-12,fbs,56,0.995674127,1673,1774,Boise State,Mountain West,fbs,19,0.004325873,1641,1540
+401525435,2023,1,regular,TRUE,FALSE,3855,Notre Dame Stadium,Notre Dame,FBS Independents,fbs,56,0.998969564,1909,1909,Tennessee State,Big South-OVC,fcs,3,0.001030436,,
+401525818,2023,1,regular,TRUE,FALSE,3854,Nippert Stadium,Cincinnati,Big 12,fbs,66,0.998935754,1626,1626,Eastern Kentucky,UAC,fcs,13,0.001064246,,
+401525465,2023,1,regular,TRUE,FALSE,3752,Heinz Field,Pittsburgh,ACC,fbs,45,0.99891517,1624,1624,Wofford,Southern,fcs,7,0.00108483,,
+401520181,2023,1,regular,TRUE,FALSE,3796,Houchens Industries-L. T. Smith Stadium,Western Kentucky,Conference USA,fbs,41,0.434334749,1628,1632,South Florida,American Athletic,fbs,24,0.565665251,1253,1249
+401520180,2023,1,regular,TRUE,FALSE,347,Camp Randall Stadium,Wisconsin,Big Ten,fbs,38,0.993272088,1637,1665,Buffalo,Mid-American,fbs,17,0.006727912,1424,1396
+401520161,2023,1,regular,TRUE,FALSE,3665,Maryland Stadium,Maryland,Big Ten,fbs,38,0.998232098,1596,1596,Towson,CAA,fcs,6,0.001767902,,
+401520164,2023,1,regular,TRUE,FALSE,3693,Davis Wade Stadium,Mississippi State,SEC,fbs,48,0.99751629,1629,1629,Southeastern Louisiana,Southland,fcs,7,0.00248371,,
+401532572,2023,1,regular,TRUE,FALSE,6501,Allegiant Stadium,UNLV,Mountain West,fbs,44,0.910906597,1350,1350,Bryant,Big South-OVC,fcs,14,0.089093403,,
+401520150,2023,1,regular,TRUE,TRUE,3983,War Memorial Stadium,Arkansas,SEC,fbs,56,0.998897247,1624,1624,Western Carolina,Southern,fcs,13,0.001102753,,
+401523991,2023,1,regular,TRUE,FALSE,3825,Apogee Stadium,North Texas,American Athletic,fbs,21,0.003341947,1472,1357,California,Pac-12,fbs,58,0.996658053,1437,1552
+401525466,2023,1,regular,TRUE,FALSE,1964,Carrier Dome,Syracuse,ACC,fbs,65,0.998969113,1476,1476,Colgate,Patriot,fcs,0,0.001030887,,
+401531836,2023,1,regular,TRUE,FALSE,3608,Paulson Stadium,Georgia Southern,Sun Belt,fbs,34,0.998837018,1418,1418,The Citadel,Southern,fcs,0,0.001162982,,
+401531838,2023,1,regular,TRUE,FALSE,3775,Joan C. Edwards Stadium,Marshall,Sun Belt,fbs,21,0.993726697,1542,1542,Albany,CAA,fcs,17,0.006273303,,
+401520154,2023,1,regular,TRUE,FALSE,3917,Sanford Stadium,Georgia,SEC,fbs,48,0.998845814,2033,2033,UT Martin,Big South-OVC,fcs,7,0.001154186,,
+401531418,2023,1,regular,TRUE,FALSE,3715,FAU Stadium,Florida Atlantic,American Athletic,fbs,42,0.998753174,1424,1424,Monmouth,CAA,fcs,20,0.001246826,,
+401531402,2023,1,regular,TRUE,FALSE,4418,Jerry Richardson Stadium,Charlotte,American Athletic,fbs,24,0.997982933,1220,1220,South Carolina State,MEAC,fcs,3,0.002017067,,
+401531837,2023,1,regular,TRUE,FALSE,3651,Bridgeforth Stadium,James Madison,Sun Belt,fbs,38,0.969312303,1606,1606,Bucknell,Patriot,fcs,3,0.030687697,,
+401520153,2023,1,regular,TRUE,FALSE,218,FIU Stadium,Florida International,Conference USA,fbs,14,0.755879392,1083,1083,Maine,CAA,fcs,12,0.244120608,,
+401523996,2023,1,regular,TRUE,FALSE,477,Los Angeles Memorial Coliseum,USC,Pac-12,fbs,66,0.998959849,1713,1817,Nevada,Mountain West,fbs,14,0.001040151,1324,1220
+401525821,2023,1,regular,TRUE,FALSE,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,fbs,45,0.998966514,1740,1740,Southeast Missouri State,Big South-OVC,fcs,0,0.001033486,,
+401520178,2023,1,regular,TRUE,FALSE,3973,Vanderbilt Stadium,Vanderbilt,SEC,fbs,47,0.918545662,1238,1238,Alabama A&M,SWAC,fcs,13,0.081454338,,
+401531426,2023,1,regular,TRUE,FALSE,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,fbs,56,0.998780961,1545,1545,Bethune-Cookman,SWAC,fcs,14,0.001219039,,
+401531840,2023,1,regular,TRUE,FALSE,3815,M. M. Roberts Stadium,Southern Mississippi,Sun Belt,fbs,40,0.997429118,1370,1370,Alcorn State,SWAC,fcs,14,0.002570882,,
+401520173,2023,1,regular,TRUE,FALSE,3795,Kyle Field,Texas A&M,SEC,fbs,52,0.997437558,1586,1656,New Mexico,Mountain West,fbs,10,0.002562442,1187,1117
+401520175,2023,1,regular,TRUE,FALSE,3817,Malone Stadium,Louisiana Monroe,Sun Belt,fbs,17,0.005563138,1244,1255,Army,FBS Independents,fbs,13,0.994436862,1499,1488
+401523990,2023,1,regular,TRUE,FALSE,5388,Canvas Stadium,Colorado State,Mountain West,fbs,24,0.01927143,1334,1290,Washington State,Pac-12,fbs,50,0.98072857,1558,1602
+401525817,2023,1,regular,TRUE,FALSE,4727,McLane Stadium,Baylor,Big 12,fbs,31,0.056645045,1614,1559,Texas State,Sun Belt,fbs,42,0.943354955,1294,1349
+401525819,2023,1,regular,TRUE,FALSE,4728,John O'Quinn Field at TDECU Stadium,Houston,Big 12,fbs,17,0.219967353,1579,1580,UT San Antonio,American Athletic,fbs,14,0.780032647,1605,1604
+401525823,2023,1,regular,TRUE,FALSE,3646,Boone Pickens Stadium,Oklahoma State,Big 12,fbs,27,0.196019199,1530,1530,Central Arkansas,UAC,fcs,13,0.803980801,,
+401531841,2023,1,regular,TRUE,FALSE,3975,Veterans Memorial Stadium,Troy,Sun Belt,fbs,48,0.998923785,1556,1556,Stephen F. Austin,UAC,fcs,30,0.001076215,,
+401531839,2023,1,regular,TRUE,FALSE,3666,Cajun Field,Louisiana,Sun Belt,fbs,38,0.994116727,1537,1537,Northwestern State,Southland,fcs,13,0.005883273,,
+401525825,2023,1,regular,TRUE,FALSE,3984,War Memorial Stadium,Wyoming,Mountain West,fbs,35,0.423932103,1409,1412,Texas Tech,Big 12,fbs,33,0.576067897,1588,1585
+401520167,2023,1,regular,TRUE,TRUE,3628,Bank of America Stadium,North Carolina,ACC,fbs,31,0.998554029,1539,1579,South Carolina,SEC,fbs,17,0.001445971,1580,1540
+401520169,2023,1,regular,TRUE,FALSE,3632,Beaver Stadium,Penn State,Big Ten,fbs,38,0.940959661,1833,1849,West Virginia,Big 12,fbs,15,0.059040339,1438,1422
+401520149,2023,1,regular,TRUE,FALSE,3657,Bryant Denny Stadium,Alabama,SEC,fbs,56,0.9984905,1954,2029,Middle Tennessee,Conference USA,fbs,7,0.0015095,1415,1340
+401520155,2023,1,regular,TRUE,FALSE,3832,Memorial Stadium,Illinois,Big Ten,fbs,30,0.903039747,1666,1664,Toledo,Mid-American,fbs,28,0.096960253,1496,1498
+401531347,2023,1,regular,TRUE,FALSE,4729,Benson Field at Yulman Stadium,Tulane,American Athletic,fbs,37,0.998692645,1640,1671,South Alabama,Sun Belt,fbs,17,0.001307355,1490,1459
+401525467,2023,1,regular,TRUE,FALSE,3799,Lane Stadium,Virginia Tech,ACC,fbs,36,0.821696878,1378,1421,Old Dominion,Sun Belt,fbs,17,0.178303122,1376,1333
+401520166,2023,1,regular,TRUE,FALSE,3601,Aggie Memorial Stadium,New Mexico State,Conference USA,fbs,58,0.998741293,1150,1150,Western Illinois,MVFC,fcs,21,0.001258707,,
+401520177,2023,1,regular,TRUE,FALSE,3946,Sun Bowl Stadium,UTEP,Conference USA,fbs,28,0.998467672,1369,1369,Incarnate Word,Southland,fcs,14,0.001532328,,
+401523989,2023,1,regular,TRUE,FALSE,3619,Arizona Stadium,Arizona,Pac-12,fbs,38,0.998942112,1416,1416,Northern Arizona,Big Sky,fcs,3,0.001057888,,
+401520152,2023,1,regular,TRUE,FALSE,3801,LaVell Edwards Stadium,BYU,Big 12,fbs,14,0.841289946,1517,1544,Sam Houston State,Conference USA,fbs,0,0.158710054,1500,1473
+401532571,2023,1,regular,TRUE,FALSE,7311,Snapdragon Stadium,San Diego State,Mountain West,fbs,36,0.991045762,1537,1537,Idaho State,Big Sky,fcs,28,0.008954238,,
+401523995,2023,1,regular,TRUE,FALSE,1056,Rose Bowl,UCLA,Pac-12,fbs,27,0.745363263,1622,1631,Coastal Carolina,Sun Belt,fbs,13,0.254636737,1396,1387
+401520171,2023,1,regular,TRUE,FALSE,6577,SHI Stadium,Rutgers,Big Ten,fbs,24,0.995002967,1288,1330,Northwestern,Big Ten,fbs,7,0.004997033,1338,1296
+401532573,2023,1,regular,TRUE,FALSE,3935,Spartan Stadium,San José State,Mountain West,fbs,17,0.000784856,1412,1378,Oregon State,Pac-12,fbs,42,0.999215144,1695,1729
+401520182,2023,1,regular,TRUE,TRUE,4013,Camping World Stadium,Florida State,ACC,fbs,45,0.995975702,1732,1792,LSU,SEC,fbs,24,0.004024298,1747,1687
+401525468,2023,1,regular,TRUE,FALSE,3982,Wallace Wade Stadium,Duke,ACC,fbs,28,0.631202001,1518,1592,Clemson,ACC,fbs,7,0.368797999,1728,1654
+401525469,2023,2,regular,TRUE,FALSE,3873,Papa John's Cardinal Stadium,Louisville,ACC,fbs,56,0.998906334,1567,1567,Murray State,MVFC,fcs,0,0.001093666,,
+401520193,2023,2,regular,TRUE,FALSE,3830,Memorial Stadium,Indiana,Big Ten,fbs,41,0.998852306,1307,1307,Indiana State,MVFC,fcs,7,0.001147694,,
+401520195,2023,2,regular,TRUE,FALSE,3833,Memorial Stadium,Kansas,Big 12,fbs,34,0.982372536,1415,1455,Illinois,Big Ten,fbs,23,0.017627464,1664,1624
+401520216,2023,2,regular,TRUE,FALSE,3630,BB&T Field,Wake Forest,ACC,fbs,36,0.956853765,1608,1618,Vanderbilt,SEC,fbs,20,0.043146235,1327,1317
+401525436,2023,2,regular,TRUE,FALSE,3670,Carter-Finley Stadium,NC State,ACC,fbs,24,0.003014143,1553,1528,Notre Dame,FBS Independents,fbs,45,0.996985857,1819,1844
+401520215,2023,2,regular,TRUE,FALSE,3799,Lane Stadium,Virginia Tech,ACC,fbs,17,0.024678803,1421,1412,Purdue,Big Ten,fbs,24,0.975321197,1479,1488
+401520191,2023,2,regular,TRUE,FALSE,3917,Sanford Stadium,Georgia,SEC,fbs,45,0.998788934,2033,2065,Ball State,Mid-American,fbs,3,0.001211066,1305,1273
+401525490,2023,2,regular,TRUE,FALSE,3615,Alumni Stadium,Boston College,ACC,fbs,31,0.383881987,1434,1434,Holy Cross,Patriot,fcs,28,0.616118013,,
+401520185,2023,2,regular,TRUE,FALSE,3841,Blaik Field at Michie Stadium,Army,FBS Independents,fbs,57,0.998957669,1530,1530,Delaware State,MEAC,fcs,0,0.001042331,,
+401520208,2023,2,regular,TRUE,FALSE,3861,Ohio Stadium,Ohio State,Big Ten,fbs,35,0.997149991,1955,1955,Youngstown State,MVFC,fcs,7,0.002850009,,
+401520209,2023,2,regular,TRUE,FALSE,3632,Beaver Stadium,Penn State,Big Ten,fbs,63,0.998922634,1713,1713,Delaware,CAA,fcs,7,0.001077366,,
+401520188,2023,2,regular,TRUE,FALSE,3726,Folsom Field,Colorado,Pac-12,fbs,36,0.346035001,1196,1288,Nebraska,Big Ten,fbs,14,0.653964999,1522,1430
+401525829,2023,2,regular,TRUE,FALSE,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,fbs,42,0.995716156,1740,1795,Troy,Sun Belt,fbs,13,0.004283844,1556,1501
+401525498,2023,2,regular,TRUE,FALSE,3923,Scott Stadium,Virginia,ACC,fbs,35,0.89207454,1339,1350,James Madison,Sun Belt,fbs,36,0.10792546,1606,1595
+401523999,2023,2,regular,TRUE,FALSE,4727,McLane Stadium,Baylor,Big 12,fbs,13,0.325257873,1559,1563,Utah,Pac-12,fbs,20,0.674742127,1784,1780
+401525494,2023,2,regular,TRUE,FALSE,721,Bobby Dodd Stadium at Historic Grant Field,Georgia Tech,ACC,fbs,48,0.99401352,1347,1347,South Carolina State,MEAC,fcs,13,0.00598648,,
+401532396,2023,2,regular,TRUE,FALSE,3786,Kelly/Shorts Stadium,Central Michigan,Mid-American,fbs,45,0.767893439,1482,1482,New Hampshire,CAA,fcs,42,0.232106561,,
+401532400,2023,2,regular,TRUE,FALSE,3700,Doyt Perry Stadium,Bowling Green,Mid-American,fbs,38,0.99876633,1210,1210,Eastern Illinois,Big South-OVC,fcs,15,0.00123367,,
+401525491,2023,2,regular,TRUE,FALSE,3836,Memorial Stadium,Clemson,ACC,fbs,66,0.998949101,1684,1684,Charleston Southern,Big South-OVC,fcs,17,0.001050899,,
+401520196,2023,2,regular,TRUE,FALSE,3683,Commonwealth Stadium,Kentucky,SEC,fbs,28,0.801984997,1730,1730,Eastern Kentucky,UAC,fcs,17,0.198015003,,
+401525828,2023,2,regular,TRUE,FALSE,3801,LaVell Edwards Stadium,BYU,Big 12,fbs,41,0.985938667,1544,,Southern Utah,UAC,fcs,16,0.014061333,,
+401531395,2023,2,regular,TRUE,FALSE,3604,Alamodome,UT San Antonio,American Athletic,fbs,20,0.919843554,1604,1600,Texas State,Sun Belt,fbs,13,0.080156446,1349,1353
+401526833,2023,2,regular,TRUE,FALSE,3985,Warren McGuirk Alumni Stadium,UMass,FBS Independents,fbs,28,0.034393241,1048,1043,Miami (OH),Mid-American,fbs,41,0.965606759,1316,1321
+401520214,2023,2,regular,TRUE,FALSE,4729,Benson Field at Yulman Stadium,Tulane,American Athletic,fbs,20,0.050854089,1671,1621,Ole Miss,SEC,fbs,37,0.949145911,1589,1639
+401520207,2023,2,regular,TRUE,FALSE,3911,Ryan Field,Northwestern,Big Ten,fbs,38,0.991334827,1296,1390,UTEP,Conference USA,fbs,7,0.008665173,1370,1276
+401531432,2023,2,regular,TRUE,FALSE,3852,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,fbs,24,0.998151563,1320,1320,Wagner,NEC,fcs,0,0.001848437,,
+401520202,2023,2,regular,TRUE,FALSE,3558,Michigan Stadium,Michigan,Big Ten,fbs,35,0.998939824,1941,1951,UNLV,Mountain West,fbs,7,0.001060176,1350,1340
+401520201,2023,2,regular,TRUE,FALSE,3948,Hard Rock Stadium,Miami,ACC,fbs,48,0.976925165,1481,1529,Texas A&M,SEC,fbs,33,0.023074835,1656,1608
+401520194,2023,2,regular,TRUE,FALSE,3772,Jack Trice Stadium,Iowa State,Big 12,fbs,13,0.134108571,1536,1533,Iowa,Big Ten,fbs,20,0.865891429,1664,1667
+401525497,2023,2,regular,TRUE,FALSE,1964,Carrier Dome,Syracuse,ACC,fbs,48,0.998970776,1476,1581,Western Michigan,Mid-American,fbs,7,0.001029224,1367,1262
+401532397,2023,2,regular,TRUE,FALSE,3764,Brigham Field at Huskie Stadium,Northern Illinois,Mid-American,fbs,11,0.92613425,1385,1385,Southern Illinois,MVFC,fcs,14,0.07386575,,
+401520203,2023,2,regular,TRUE,FALSE,3936,Spartan Stadium,Michigan State,Big Ten,fbs,45,0.998872783,1617,1617,Richmond,CAA,fcs,14,0.001127217,,
+401532398,2023,2,regular,TRUE,FALSE,3739,Glass Bowl,Toledo,Mid-American,fbs,71,0.99897008,1531,1531,Texas Southern,SWAC,fcs,3,0.00102992,,
+401532580,2023,2,regular,TRUE,FALSE,3984,War Memorial Stadium,Wyoming,Mountain West,fbs,31,0.996917663,1500,1500,Portland State,Big Sky,fcs,17,0.003082337,,
+401531411,2023,2,regular,TRUE,FALSE,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,fbs,13,0.016215174,1481,1443,Marshall,Sun Belt,fbs,31,0.983784826,1542,1580
+401532578,2023,2,regular,TRUE,FALSE,3935,Spartan Stadium,San José State,Mountain West,fbs,59,0.998943559,1223,1223,Cal Poly,Big Sky,fcs,3,0.001056441,,
+401520184,2023,2,regular,TRUE,FALSE,3887,Donald W. Reynolds Razorback Stadium Frank Broyles Field,Arkansas,SEC,fbs,28,0.998702611,1624,1641,Kent State,Mid-American,fbs,6,0.001297389,1262,1245
+401524004,2023,2,regular,TRUE,FALSE,3765,Husky Stadium,Washington,Pac-12,fbs,43,0.998886865,1774,1822,Tulsa,American Athletic,fbs,10,0.001113135,1418,1370
+401520213,2023,2,regular,TRUE,FALSE,3853,Neyland Stadium,Tennessee,SEC,fbs,30,0.988568686,1735,1735,Austin Peay,UAC,fcs,13,0.011431314,,
+401531844,2023,2,regular,TRUE,FALSE,6526,Hancock Whitney Stadium,South Alabama,Sun Belt,fbs,35,0.998300362,1313,1313,Southeastern Louisiana,Southland,fcs,17,0.001699638,,
+401525495,2023,2,regular,TRUE,FALSE,3787,Kenan Memorial Stadium,North Carolina,ACC,fbs,40,0.43053251,1579,1585,Appalachian State,Sun Belt,fbs,34,0.56946749,1562,1556
+401532401,2023,2,regular,TRUE,FALSE,3965,UB Stadium,Buffalo,Mid-American,fbs,37,,1354,1354,Fordham,Patriot,fcs,40,,,
+401525492,2023,2,regular,TRUE,FALSE,3982,Wallace Wade Stadium,Duke,ACC,fbs,42,0.99895413,1250,1250,Lafayette,Patriot,fcs,7,0.00104587,,
+401525833,2023,2,regular,TRUE,FALSE,3842,Mountaineer Field at Milan Puskar Stadium,West Virginia,Big 12,fbs,56,0.998925514,1447,1447,Duquesne,NEC,fcs,17,0.001074486,,
+401532399,2023,2,regular,TRUE,FALSE,3768,Summa Field at InfoCision Stadium,Akron,Mid-American,fbs,24,0.592560944,1094,1094,Morgan State,MEAC,fcs,21,0.407439056,,
+401531842,2023,2,regular,TRUE,FALSE,3918,Foreman Field,Old Dominion,Sun Belt,fbs,38,0.492363326,1333,1355,Louisiana,Sun Belt,fbs,31,0.507636674,1537,1515
+401531419,2023,2,regular,TRUE,FALSE,3715,FAU Stadium,Florida Atlantic,American Athletic,fbs,10,0.001335608,1424,1415,Ohio,Mid-American,fbs,17,0.998664392,1473,1482
+401531378,2023,2,regular,TRUE,FALSE,3608,Paulson Stadium,Georgia Southern,Sun Belt,fbs,49,0.276617098,1418,1455,UAB,American Athletic,fbs,35,0.723382902,1510,1473
+401525830,2023,2,regular,TRUE,FALSE,3835,Gaylord Family Oklahoma Memorial Stadium,Oklahoma,Big 12,fbs,28,0.998632258,1793,1807,SMU,American Athletic,fbs,11,0.001367742,1535,1521
+401520198,2023,2,regular,TRUE,FALSE,3992,Williams Stadium,Liberty,Conference USA,fbs,33,0.995976277,1446,1465,New Mexico State,Conference USA,fbs,17,0.004023723,1274,1255
+401520189,2023,2,regular,TRUE,FALSE,218,FIU Stadium,Florida International,Conference USA,fbs,46,0.994757678,1074,1101,North Texas,American Athletic,fbs,39,0.005242322,1357,1330
+401525496,2023,2,regular,TRUE,FALSE,3752,Heinz Field,Pittsburgh,ACC,fbs,21,0.002920319,1624,1613,Cincinnati,Big 12,fbs,27,0.997079681,1626,1637
+401520183,2023,2,regular,TRUE,FALSE,3657,Bryant Denny Stadium,Alabama,SEC,fbs,24,0.343839284,2029,1984,Texas,Big 12,fbs,34,0.656160716,1776,1821
+401520187,2023,2,regular,TRUE,FALSE,3654,Brooks Stadium,Coastal Carolina,Sun Belt,fbs,30,0.832690232,1387,1425,Jacksonville State,Conference USA,fbs,16,0.167309768,1499,1461
+401532576,2023,2,regular,TRUE,FALSE,3816,Mackay Stadium,Nevada,Mountain West,fbs,6,0.002131264,1405,1405,Idaho,Big Sky,fcs,33,0.997868736,,
+401524002,2023,2,regular,TRUE,FALSE,3784,Jones AT&T Stadium,Texas Tech,Big 12,fbs,30,0.09628549,1585,1575,Oregon,Pac-12,fbs,38,0.90371451,1649,1659
+401520192,2023,2,regular,TRUE,FALSE,4246,Georgia State Stadium,Georgia State,Sun Belt,fbs,35,0.985028352,1490,1517,Connecticut,FBS Independents,fbs,14,0.014971648,1264,1237
+401520197,2023,2,regular,TRUE,FALSE,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,fbs,51,0.995874683,1257,1257,Northwestern State,Southland,fcs,21,0.004125317,,
+401520206,2023,2,regular,TRUE,FALSE,3838,Faurot Field,Missouri,SEC,fbs,23,0.926995279,1480,1479,Middle Tennessee,Conference USA,fbs,19,0.073004721,1340,1341
+401520218,2023,2,regular,TRUE,FALSE,3796,Houchens Industries-L. T. Smith Stadium,Western Kentucky,Conference USA,fbs,52,0.930667722,1700,1700,Houston Christian,Southland,fcs,22,0.069332278,,
+401525827,2023,2,regular,TRUE,FALSE,3653,Albertsons Stadium,Boise State,Mountain West,fbs,16,0.143958874,1540,1544,UCF,Big 12,fbs,18,0.856041126,1668,1664
+401525831,2023,2,regular,TRUE,FALSE,3895,Rice Stadium,Rice,American Athletic,fbs,43,0.98874426,1194,1199,Houston,Big 12,fbs,41,0.01125574,1580,1575
+401531422,2023,2,regular,TRUE,FALSE,3886,Raymond James Stadium,South Florida,American Athletic,fbs,38,0.183259429,1268,1268,Florida A&M,SWAC,fcs,24,0.816740571,,
+401531427,2023,2,regular,TRUE,FALSE,3625,Centennial Bank Stadium,Arkansas State,Sun Belt,fbs,3,0.001147715,1071,1032,Memphis,American Athletic,fbs,37,0.998852285,1545,1584
+401520190,2023,2,regular,TRUE,FALSE,3634,Ben Hill Griffin Stadium,Florida,SEC,fbs,49,0.998967478,1558,1558,McNeese,Southland,fcs,7,0.001032522,,
+401520212,2023,2,regular,TRUE,FALSE,3994,Williams-Brice Stadium,South Carolina,SEC,fbs,47,0.998826349,1459,1459,Furman,Southern,fcs,21,0.001173651,,
+401520199,2023,2,regular,TRUE,FALSE,3958,Tiger Stadium,LSU,SEC,fbs,72,0.998686804,1484,1484,Grambling,SWAC,fcs,10,0.001313196,,
+401520210,2023,2,regular,TRUE,FALSE,6577,SHI Stadium,Rutgers,Big Ten,fbs,36,0.997759673,1330,1399,Temple,American Athletic,fbs,7,0.002240327,1263,1194
+401520217,2023,2,regular,TRUE,FALSE,3820,Martin Stadium,Washington State,Pac-12,fbs,31,0.910335406,1602,1621,Wisconsin,Big Ten,fbs,22,0.089664594,1665,1646
+401524001,2023,2,regular,TRUE,FALSE,7311,Snapdragon Stadium,San Diego State,Mountain West,fbs,10,0.01618546,1497,1446,UCLA,Pac-12,fbs,35,0.98381454,1631,1682
+401520200,2023,2,regular,TRUE,FALSE,3665,Maryland Stadium,Maryland,Big Ten,fbs,38,0.965960668,1596,1602,Charlotte,American Athletic,fbs,20,0.034039332,1220,1214
+401520205,2023,2,regular,TRUE,FALSE,3693,Davis Wade Stadium,Mississippi State,SEC,fbs,31,0.779012451,1629,1627,Arizona,Pac-12,fbs,24,0.220987549,1416,1418
+401520204,2023,2,regular,TRUE,FALSE,3953,TCF Bank Stadium,Minnesota,Big Ten,fbs,25,0.997738188,1671,1691,Eastern Michigan,Mid-American,fbs,6,0.002261812,1433,1413
+401532579,2023,2,regular,TRUE,FALSE,3905,Romney Stadium,Utah State,Mountain West,fbs,78,0.99896857,1553,1553,Idaho State,Big Sky,fcs,28,0.00103143,,
+401525832,2023,2,regular,TRUE,FALSE,3616,Amon G. Carter Stadium,TCU,Big 12,fbs,41,0.998970924,1428,1428,Nicholls,Southland,fcs,6,0.001029076,,
+401532577,2023,2,regular,TRUE,FALSE,3971,University Stadium,New Mexico,Mountain West,fbs,56,0.99894192,1146,1146,Tennessee Tech,Big South-OVC,fcs,10,0.00105808,,
+401520211,2023,2,regular,TRUE,TRUE,3891,NRG Stadium,Sam Houston State,Conference USA,fbs,3,0.00143724,1473,1474,Air Force,Mountain West,fbs,13,0.99856276,1678,1677
+401531843,2023,2,regular,TRUE,FALSE,3817,Malone Stadium,Louisiana Monroe,Sun Belt,fbs,24,0.292117927,1221,1221,Lamar,Southland,fcs,14,0.707882073,,
+401525493,2023,2,regular,TRUE,FALSE,3697,Bobby Bowden Field at Doak Campbell Stadium,Florida State,ACC,fbs,66,0.998482931,1792,1895,Southern Mississippi,Sun Belt,fbs,13,0.001517069,1370,1267
+401532574,2023,2,regular,TRUE,FALSE,3660,Bulldog Stadium,Fresno State,Mountain West,fbs,34,0.590240339,1600,1600,Eastern Washington,Big Sky,fcs,31,0.409759661,,
+401524000,2023,2,regular,TRUE,FALSE,3893,Reser Stadium,Oregon State,Pac-12,fbs,55,0.998962842,1599,1599,UC Davis,Big Sky,fcs,7,0.001037158,,
+401524003,2023,2,regular,TRUE,FALSE,477,Los Angeles Memorial Coliseum,USC,Pac-12,fbs,56,0.998961738,1817,1891,Stanford,Pac-12,fbs,10,0.001038262,1345,1271
+401523998,2023,2,regular,TRUE,FALSE,3947,Sun Devil Stadium,Arizona State,Pac-12,fbs,15,0.517241026,1464,1444,Oklahoma State,Big 12,fbs,27,0.482758974,1530,1550
+401520186,2023,2,regular,TRUE,FALSE,3831,California Memorial Stadium,California,Pac-12,fbs,10,0.006722404,1552,1551,Auburn,SEC,fbs,14,0.993277596,1638,1639
+401532575,2023,2,regular,TRUE,FALSE,7220,Clarence T.C. Ching Athletics Complex,Hawai'i,Mountain West,fbs,31,0.954963825,1380,1380,Albany,CAA,fcs,20,0.045036175,,
+401525499,2023,3,regular,TRUE,FALSE,3948,Hard Rock Stadium,Miami,ACC,fbs,48,0.998969683,1659,1659,Bethune-Cookman,SWAC,fcs,7,0.001030317,,
+401531428,2023,3,regular,TRUE,FALSE,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,fbs,28,0.560657945,1584,1581,Navy,American Athletic,fbs,24,0.439342055,1385,1388
+401531396,2023,3,regular,TRUE,FALSE,3604,Alamodome,UT San Antonio,American Athletic,fbs,29,0.202022327,1600,1577,Army,FBS Independents,fbs,37,0.797977673,1488,1511
+401520231,2023,3,regular,TRUE,FALSE,3665,Maryland Stadium,Maryland,Big Ten,fbs,42,0.997337196,1602,1656,Virginia,ACC,fbs,14,0.002662804,1350,1296
+401532581,2023,3,regular,TRUE,FALSE,3713,Falcon Stadium,Air Force,Mountain West,fbs,39,0.99891312,1677,1701,Utah State,Mountain West,fbs,21,0.00108688,1396,1372
+401520230,2023,3,regular,TRUE,TRUE,3812,Lucas Oil Stadium,Indiana,Big Ten,fbs,14,0.060978786,1389,1387,Louisville,ACC,fbs,21,0.939021214,1654,1656
+401532582,2023,3,regular,TRUE,FALSE,3653,Albertsons Stadium,Boise State,Mountain West,fbs,42,0.99284813,1541,1541,North Dakota,MVFC,fcs,18,0.00715187,,
+401520222,2023,3,regular,TRUE,FALSE,3965,UB Stadium,Buffalo,Mid-American,fbs,27,0.052869588,1396,1319,Liberty,Conference USA,fbs,55,0.947130412,1465,1542
+401525838,2023,3,regular,TRUE,FALSE,3876,Peden Stadium,Ohio,Mid-American,fbs,10,0.167309447,1482,1486,Iowa State,Big 12,fbs,7,0.832690553,1533,1529
+401525504,2023,3,regular,TRUE,FALSE,3918,Foreman Field,Old Dominion,Sun Belt,fbs,24,0.612525742,1355,1358,Wake Forest,ACC,fbs,27,0.387474258,1618,1615
+401525500,2023,3,regular,TRUE,FALSE,3615,Alumni Stadium,Boston College,ACC,fbs,29,0.404449882,1309,1325,Florida State,ACC,fbs,31,0.595550118,1895,1879
+401520235,2023,3,regular,TRUE,FALSE,3693,Davis Wade Stadium,Mississippi State,SEC,fbs,14,0.000346745,1627,1552,LSU,SEC,fbs,41,0.999653255,1687,1762
+401520226,2023,3,regular,TRUE,FALSE,3832,Memorial Stadium,Illinois,Big Ten,fbs,13,0.492179369,1624,1590,Penn State,Big Ten,fbs,30,0.507820631,1849,1883
+401520249,2023,3,regular,TRUE,FALSE,347,Camp Randall Stadium,Wisconsin,Big Ten,fbs,35,0.981651368,1646,1682,Georgia Southern,Sun Belt,fbs,14,0.018348632,1455,1419
+401525834,2023,3,regular,TRUE,FALSE,4727,McLane Stadium,Baylor,Big 12,fbs,30,0.996953346,1643,1643,Long Island University,NEC,fcs,7,0.003046654,,
+401532404,2023,3,regular,TRUE,FALSE,3696,Dix Stadium,Kent State,Mid-American,fbs,38,0.998941631,1212,1212,Central Connecticut,NEC,fcs,10,0.001058369,,
+401520236,2023,3,regular,TRUE,FALSE,3838,Faurot Field,Missouri,SEC,fbs,30,0.766330693,1479,1491,Kansas State,Big 12,fbs,27,0.233669307,1795,1783
+401532402,2023,3,regular,TRUE,FALSE,3919,Scheumann Stadium,Ball State,Mid-American,fbs,45,0.998677525,1288,1288,Indiana State,MVFC,fcs,7,0.001322475,,
+401524012,2023,3,regular,TRUE,FALSE,587,Rice-Eccles Stadium,Utah,Pac-12,fbs,31,0.99890873,1807,1807,Weber State,Big Sky,fcs,7,0.00109127,,
+401525502,2023,3,regular,TRUE,FALSE,3670,Carter-Finley Stadium,NC State,ACC,fbs,45,0.998958076,1570,1570,VMI,Southern,fcs,7,0.001041924,,
+401531388,2023,3,regular,TRUE,FALSE,3806,Lincoln Financial Field,Temple,American Athletic,fbs,41,0.998891779,1103,1103,Norfolk State,MEAC,fcs,9,0.001108221,,
+401526834,2023,3,regular,TRUE,FALSE,3912,Rynearson Stadium,Eastern Michigan,Mid-American,fbs,19,0.136234325,1413,1403,UMass,FBS Independents,fbs,17,0.863765675,1043,1053
+401525437,2023,3,regular,TRUE,FALSE,3855,Notre Dame Stadium,Notre Dame,FBS Independents,fbs,41,0.998769606,1844,1873,Central Michigan,Mid-American,fbs,17,0.001230394,1328,1299
+401520223,2023,3,regular,TRUE,FALSE,3982,Wallace Wade Stadium,Duke,ACC,fbs,38,0.998474612,1592,1637,Northwestern,Big Ten,fbs,14,0.001525388,1390,1345
+401520246,2023,3,regular,TRUE,FALSE,3892,Rentschler Field,Connecticut,FBS Independents,fbs,17,0.017756924,1237,1216,Florida International,Conference USA,fbs,24,0.982243076,1101,1122
+401520244,2023,3,regular,TRUE,FALSE,3886,Raymond James Stadium,South Florida,American Athletic,fbs,3,0.078350972,1249,1246,Alabama,SEC,fbs,17,0.921649028,1984,1987
+401520225,2023,3,regular,TRUE,FALSE,3917,Sanford Stadium,Georgia,SEC,fbs,24,0.983928603,2065,2061,South Carolina,SEC,fbs,14,0.016071397,1540,1544
+401525842,2023,3,regular,TRUE,FALSE,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,fbs,17,0.013172866,1370,1250,Oklahoma,Big 12,fbs,66,0.986827134,1807,1927
+401524009,2023,3,regular,TRUE,FALSE,3893,Reser Stadium,Oregon State,Pac-12,fbs,26,0.996486122,1729,1750,San Diego State,Mountain West,fbs,9,0.003513878,1446,1425
+401531412,2023,3,regular,TRUE,FALSE,3792,Kidd Brewer Stadium,Appalachian State,Sun Belt,fbs,43,0.940274221,1556,1579,East Carolina,American Athletic,fbs,28,0.059725779,1443,1420
+401520227,2023,3,regular,TRUE,FALSE,3793,Kinnick Stadium,Iowa,Big Ten,fbs,41,0.729480384,1667,1721,Western Michigan,Mid-American,fbs,10,0.270519616,1262,1208
+401520239,2023,3,regular,TRUE,FALSE,3787,Kenan Memorial Stadium,North Carolina,ACC,fbs,31,0.997379509,1585,1627,Minnesota,Big Ten,fbs,13,0.002620491,1691,1649
+401520243,2023,3,regular,TRUE,FALSE,6577,SHI Stadium,Rutgers,Big Ten,fbs,35,0.698275173,1399,1439,Virginia Tech,ACC,fbs,16,0.301724827,1412,1372
+401520245,2023,3,regular,TRUE,FALSE,3795,Kyle Field,Texas A&M,SEC,fbs,47,0.998915816,1608,1706,Louisiana Monroe,Sun Belt,fbs,3,0.001084184,1255,1157
+401524006,2023,3,regular,TRUE,FALSE,3831,California Memorial Stadium,California,Pac-12,fbs,31,0.820349207,1618,1618,Idaho,Big Sky,fcs,17,0.179650793,,
+401531348,2023,3,regular,TRUE,FALSE,3815,M. M. Roberts Stadium,Southern Mississippi,Sun Belt,fbs,3,0.090051472,1267,1237,Tulane,American Athletic,fbs,21,0.909948528,1621,1651
+401520240,2023,3,regular,TRUE,FALSE,3861,Ohio Stadium,Ohio State,Big Ten,fbs,63,0.998969492,1903,2038,Western Kentucky,Conference USA,fbs,10,0.001030508,1632,1497
+401524013,2023,3,regular,TRUE,FALSE,3820,Martin Stadium,Washington State,Pac-12,fbs,64,0.998963856,1653,1653,Northern Colorado,Big Sky,fcs,21,0.001036144,,
+401520233,2023,3,regular,TRUE,FALSE,3936,Spartan Stadium,Michigan State,Big Ten,fbs,7,0.000361387,1575,1490,Washington,Pac-12,fbs,41,0.999638613,1822,1907
+401524011,2023,3,regular,TRUE,FALSE,1056,Rose Bowl,UCLA,Pac-12,fbs,59,0.998971115,1756,1756,North Carolina Central,MEAC,fcs,7,0.001028885,,
+401531403,2023,3,regular,TRUE,FALSE,4418,Jerry Richardson Stadium,Charlotte,American Athletic,fbs,25,0.003760332,1214,1187,Georgia State,Sun Belt,fbs,41,0.996239668,1517,1544
+401525843,2023,3,regular,TRUE,FALSE,3652,Bright House Networks Stadium,UCF,Big 12,fbs,48,0.998947106,1688,1688,Villanova,CAA,fcs,14,0.001052894,,
+401520229,2023,3,regular,TRUE,FALSE,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,fbs,37,0.247157278,1216,1214,North Texas,American Athletic,fbs,40,0.752842722,1330,1332
+401531848,2023,3,regular,TRUE,FALSE,3975,Veterans Memorial Stadium,Troy,Sun Belt,fbs,14,0.154869102,1501,1500,James Madison,Sun Belt,fbs,16,0.845130898,1595,1596
+401531379,2023,3,regular,TRUE,FALSE,7221,Protective Stadium,UAB,American Athletic,fbs,21,0.043624832,1473,1421,Louisiana,Sun Belt,fbs,41,0.956375168,1515,1567
+401525839,2023,3,regular,TRUE,FALSE,3646,Boone Pickens Stadium,Oklahoma State,Big 12,fbs,7,0.001682543,1550,1469,South Alabama,Sun Belt,fbs,33,0.998317457,1459,1540
+401520237,2023,3,regular,TRUE,FALSE,3834,Memorial Stadium,Nebraska,Big Ten,fbs,35,0.998728494,1430,1479,Northern Illinois,Mid-American,fbs,11,0.001271506,1309,1260
+401520234,2023,3,regular,TRUE,FALSE,3725,"Johnny Red"""" Floyd Stadium""""",Middle Tennessee,Conference USA,fbs,35,0.994124549,1368,1368,Murray State,MVFC,fcs,14,0.005875451,,
+401525835,2023,3,regular,TRUE,FALSE,3854,Nippert Stadium,Cincinnati,Big 12,fbs,24,0.349096016,1637,1608,Miami (OH),Mid-American,fbs,31,0.650903984,1321,1350
+401520224,2023,3,regular,TRUE,FALSE,3634,Ben Hill Griffin Stadium,Florida,SEC,fbs,29,0.967879615,1546,1583,Tennessee,SEC,fbs,16,0.032120385,1887,1850
+401525841,2023,3,regular,TRUE,FALSE,3784,Jones AT&T Stadium,Texas Tech,Big 12,fbs,41,0.997520317,1533,1533,Tarleton State,UAC,fcs,3,0.002479683,,
+401531438,2023,3,regular,TRUE,FALSE,3735,Gerald J. Ford Stadium,SMU,American Athletic,fbs,69,0.998970632,1584,1584,Prairie View,SWAC,fcs,0,0.001029368,,
+401531441,2023,3,regular,TRUE,FALSE,3895,Rice Stadium,Rice,American Athletic,fbs,59,0.998899266,1233,1233,Texas Southern,SWAC,fcs,7,0.001100734,,
+401532403,2023,3,regular,TRUE,FALSE,3739,Glass Bowl,Toledo,Mid-American,fbs,21,0.987340513,1498,1497,San José State,Mountain West,fbs,17,0.012659487,1378,1379
+401531846,2023,3,regular,TRUE,FALSE,3625,Centennial Bank Stadium,Arkansas State,Sun Belt,fbs,31,0.997488765,1024,1024,Stony Brook,CAA,fcs,7,0.002511235,,
+401520247,2023,3,regular,TRUE,FALSE,6501,Allegiant Stadium,UNLV,Mountain West,fbs,40,0.86975522,1340,1341,Vanderbilt,SEC,fbs,37,0.13024478,1317,1316
+401531845,2023,3,regular,TRUE,FALSE,3654,Brooks Stadium,Coastal Carolina,Sun Belt,fbs,66,0.998956362,1623,1623,Duquesne,NEC,fcs,7,0.001043638,,
+401520221,2023,3,regular,TRUE,FALSE,3785,Jordan-Hare Stadium,Auburn,SEC,fbs,45,0.99832117,1697,1697,Samford,Southern,fcs,13,0.00167883,,
+401520241,2023,3,regular,TRUE,FALSE,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,fbs,48,,1639,1683,Georgia Tech,ACC,fbs,23,,1362,1318
+401520232,2023,3,regular,TRUE,FALSE,3558,Michigan Stadium,Michigan,Big Ten,fbs,31,0.998241281,1951,1973,Bowling Green,Mid-American,fbs,6,0.001758719,1246,1224
+401520242,2023,3,regular,TRUE,FALSE,3907,Ross-Ade Stadium,Purdue,Big Ten,fbs,20,0.318927905,1488,1454,Syracuse,ACC,fbs,35,0.681072095,1581,1615
+401525503,2023,3,regular,TRUE,FALSE,3842,Mountaineer Field at Milan Puskar Stadium,West Virginia,Big 12,fbs,17,0.90821185,1422,1447,Pittsburgh,ACC,fbs,6,0.09178815,1613,1588
+401520228,2023,3,regular,TRUE,FALSE,3683,Commonwealth Stadium,Kentucky,SEC,fbs,35,0.998634159,1625,1685,Akron,Mid-American,fbs,3,0.001365841,1268,1208
+401520220,2023,3,regular,TRUE,FALSE,3887,Donald W. Reynolds Razorback Stadium Frank Broyles Field,Arkansas,SEC,fbs,31,0.958157204,1641,1621,BYU,Big 12,fbs,38,0.041842796,1544,1564
+401524010,2023,3,regular,TRUE,FALSE,3940,Stanford Stadium,Stanford,Pac-12,fbs,23,,1283,1283,Sacramento State,Big Sky,fcs,30,,,
+401525501,2023,3,regular,TRUE,FALSE,3836,Memorial Stadium,Clemson,ACC,fbs,48,0.998959858,1654,1727,Florida Atlantic,American Athletic,fbs,14,0.001040142,1415,1342
+401525840,2023,3,regular,TRUE,FALSE,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,fbs,31,0.99617112,1821,1847,Wyoming,Mountain West,fbs,10,0.00382888,1412,1386
+401524008,2023,3,regular,TRUE,FALSE,3626,Autzen Stadium,Oregon,Pac-12,fbs,55,0.998917291,1659,1754,Hawai'i,Mountain West,fbs,10,0.001082709,1220,1125
+401520238,2023,3,regular,TRUE,FALSE,3971,University Stadium,New Mexico,Mountain West,fbs,17,0.079715277,1117,1099,New Mexico State,Conference USA,fbs,27,0.920284723,1255,1273
+401525836,2023,3,regular,TRUE,FALSE,4728,John O'Quinn Field at TDECU Stadium,Houston,Big 12,fbs,13,0.00066095,1575,1512,TCU,Big 12,fbs,36,0.99933905,1613,1676
+401531847,2023,3,regular,TRUE,FALSE,3644,Jim Wacker Field at Bobcat Stadium,Texas State,Sun Belt,fbs,77,0.998952613,1334,1334,Jackson State,SWAC,fcs,34,0.001047387,,
+401524007,2023,3,regular,TRUE,FALSE,3726,Folsom Field,Colorado,Pac-12,fbs,43,0.04766039,1288,1298,Colorado State,Mountain West,fbs,35,0.95233961,1290,1280
+401524005,2023,3,regular,TRUE,FALSE,3947,Sun Devil Stadium,Arizona State,Pac-12,fbs,0,0.00607816,1444,1374,Fresno State,Mountain West,fbs,29,0.99392184,1671,1741
+401525837,2023,3,regular,TRUE,FALSE,3816,Mackay Stadium,Nevada,Mountain West,fbs,24,0.072738711,1220,1213,Kansas,Big 12,fbs,31,0.927261289,1455,1462
+401520219,2023,3,regular,TRUE,FALSE,3619,Arizona Stadium,Arizona,Pac-12,fbs,31,0.998812111,1418,1457,UTEP,Conference USA,fbs,10,0.001187889,1276,1237
